@@ -1,3 +1,3 @@
-public class Dashboard {
+public class DashboardEmployee {
     
 }

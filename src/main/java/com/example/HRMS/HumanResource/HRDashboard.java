@@ -1,3 +1,3 @@
-public class HR {
+public class HRDashboard {
     
 }
